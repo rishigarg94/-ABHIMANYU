@@ -1,46 +1,84 @@
-body {
-     font-family:Arial, Sans-Serif;
+*{
+	margin: 0;
+	padding: 0;
+	font-family: century gothic;
+
 }
-.clearfix:before, .clearfix:after{
-     content: "";
-     display: table;
+header{
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)) , url(../background.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+
 }
-.clearfix:after{
-     clear: both;
+
+ul{
+	list-style-type: none;
+	float:right;
+	margin-top: 25px;
 }
-a{
-     color:#0067ab;
-     text-decoration:none;
+
+ul li{
+	display: inline-block;
 }
-a:hover{
-     text-decoration:underline;
+
+ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 5px 20px;
+	border: 1px solid transparent;
+	transition: 0.6s ease;
+
 }
-.form{
-     width: 300px;
-     margin: 0 auto;
+
+ul li a:hover{
+	background-color: #fff;
+	color: #000;
 }
-input[type='text'], input[type='email'],
-input[type='password'] {
-     width: 200px;
-     border-radius: 2px;
-     border: 1px solid #CCC;
-     padding: 10px;
-     color: #333;
-     font-size: 14px;
-     margin-top: 10px;
+ul li.active a{
+	background-color: #fff;
+	color: #000;
 }
-input[type='submit']{
-     padding: 10px 25px 8px;
-     color: #fff;
-     background-color: #0067ab;
-     text-shadow: rgba(0,0,0,0.24) 0 1px 0;
-     font-size: 16px;
-     box-shadow: rgba(255,255,255,0.24) 0 2px 0 0 inset,#fff 0 1px 0 0;
-     border: 1px solid #0164a5;
-     border-radius: 2px;
-     margin-top: 10px;
-     cursor:pointer;
+
+.logo img{
+	float: left;
+	width: 150px;
+	height: auto;
 }
-input[type='submit']:hover {
-     background-color: #024978;
+.main{
+	max-width: 1500px;
+	margin: auto;
+}
+
+.title{
+	position: absolute;
+	top:40%;
+	left:50%;
+	transform: translate(-50%,-50%);
+}
+
+.title h1{
+	color: white;
+	font-size: 90px;
+
+}
+.button{
+	position: absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+
+}
+.btn{
+	border: 1px solid #fff;
+	padding: 10px 40px;
+	color: #fff;
+	text-decoration: none;
+	transition: 0.6s ease;
+
+}
+
+.btn:hover{
+	background-color: #fff;
+	color: #000;
 }
