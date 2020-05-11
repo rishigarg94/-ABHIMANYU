@@ -1,2 +1,2 @@
 # -ABHIMANYU
-A git repo for weekend of code by team !ABHIMANYU
+PROJECT ABHIMANYU: Website for Inter College Git, having information of cultural society of MNNIT.
