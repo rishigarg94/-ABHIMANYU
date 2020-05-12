@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>Login</title>
-<link rel="stylesheet" href="css/style.css" />
+<link rel="stylesheet" href="loginstyle.css" />
 </head>
 <body>
 <?php
@@ -18,7 +18,7 @@ if (isset($_POST['username'])){
  $password = stripslashes($_REQUEST['password']);
  $password = mysqli_real_escape_string($con,$password);
  //Checking is user existing in the database or not
-        $query = "SELECT * FROM `users` WHERE username='$username'
+        $query = "SELECT * FROM users WHERE username='$username'
 and password='".md5($password)."'";
  $result = mysqli_query($con,$query) or die(mysql_error());
  $rows = mysqli_num_rows($result);
