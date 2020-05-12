@@ -1,11 +1,6 @@
 # -ABHIMANYU
-PROBLEM :  
-*for communication
-
-
-
-solution:
-INTRODUCTION
+ we will soon upload a proper readme file,
+ uptill then, please refer to abstract(!ABHIMANYU) for details.
 
 
 
