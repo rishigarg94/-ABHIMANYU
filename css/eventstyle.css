@@ -168,7 +168,7 @@ body{
 .card-container:hover .card:after,
 .card-container:focus .card:before,
 .card-container:focus .card:after{
-  opacity: .34;
+  opacity: .7;
   transform: scale(1);
 }
 
