@@ -1,6 +1,7 @@
 *{
 	margin: 0;
 	padding: 0;
+	font-family: sans-serif;
 }
 .about-us{
 	overflow: hidden;
@@ -9,7 +10,7 @@
 	padding: 60px;
 }
 .about-us h1{
-	text-transform: uppercases;
+	text-transform: uppercase;
 	margin-bottom: 60px;
 	color: white;
 	font-size: 40px;
@@ -20,6 +21,9 @@
 	width: 160px;
 	height: 3px;
 	background: #3498db;
+	margin-bottom: 40px;
+}
+.ps{
 	margin-bottom: 40px;
 }
 .ps a{
@@ -54,7 +58,6 @@
 	display: block;
 	margin-bottom: 30px;
 	text-align: center;
-	text-transform: uppercase;
 	font-size: 22px; 
 
 }
