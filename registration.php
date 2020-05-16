@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>Registration</title>
-<link rel="stylesheet" href="stylelogin.css" />
+<link rel="stylesheet" href="styleloginnew.css" />
 </head>
 <body>
 <?php
@@ -40,17 +40,17 @@ VALUES ('$username', '".md5($password)."', '$email', '$trn_date', '$branch', '$r
     }else{
 ?>
 <div class="form">
+<form name="registration" action="" method="post" class="box">
 <h1>Registration</h1>
-<form name="registration" action="" method="post">
 <input type="text" name="username" placeholder="Username" required />
-<input type="email" name="email" placeholder="Email" required />
+<input type="text" name="email" placeholder="Email" required />
 <input type="text" name="branch" placeholder="Branch" required />
 <input type="text" name="regis" placeholder="Registration no." required />
-<input type="text" name="years" placeholder="Year" required />
+<input type="text" name="years" placeholder="Year(1/2/3/4)" required />
 <input type="password" name="password" placeholder="Password" required />
 <input type="submit" name="submit" value="Register" />
-<p>Already Registered? then login <a href='Login.php'>Click Here</a></p>
-<p>Back To Homepage <a href='index.html'>Click Here</a></p>
+<p style="color:white";>Already Registered? then login <a href='login.php' style="color: #3498db";>Click Here</a></p>
+<p style="color:white";> <a href='index.html' style="color: #3498db";>Back To Homepage</a></p>
 </form>
 </div>
 <?php } ?>
