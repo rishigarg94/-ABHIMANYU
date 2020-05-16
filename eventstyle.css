@@ -70,6 +70,13 @@ body{
   opacity: .89;
 }
 
+.card-container h2{
+  background :black;
+  color: white;
+  font-weight: 600;
+}
+
+
 .card-container:hover,
 .card-container:focus{
   opacity: 1;
