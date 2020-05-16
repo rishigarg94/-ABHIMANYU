@@ -49,7 +49,7 @@ VALUES ('$username', '".md5($password)."', '$email', '$trn_date', '$branch', '$r
 <input type="text" name="years" placeholder="Year(1/2/3/4)" required />
 <input type="password" name="password" placeholder="Password" required />
 <input type="submit" name="submit" value="Register" />
-<p style="color:white";>Already Registered? then login <a href='login.php' style="color: #3498db";>Click Here</a></p>
+<p style="color:white";>Already Registered? <a href='login.php' style="color: #3498db";>Login</a></p>
 <p style="color:white";> <a href='index.html' style="color: #3498db";>Back To Homepage</a></p>
 </form>
 </div>
