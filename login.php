@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>Login</title>
-<link rel="stylesheet" href="stylelogin.css" />
+<link rel="stylesheet" href="styleloginnew.css" />
 </head>
 <body>
 <?php
@@ -54,15 +54,13 @@ and password='".md5($password)."'";
     }else{
 ?>
 <div class="form">
-<h1>Log In</h1>
-<form action="" method="post" name="login">
+<form action="" method="post" name="login" class="box">
+<h1>Login</h1>
 <input type="text" name="username" placeholder="Username" required />
 <input type="password" name="password" placeholder="Password" required />
 <input name="submit" type="submit" value="Login" />
-</form>
-<p>Not registered yet? <a href='registration.php'>Register Here</a></p>
-<p>Back To Homepage <a href='index.html'>Click Here</a></p>
-</div>
+<p style="color:white";>Not registered yet?  <a href='registration.php' style="color: #3498db";>Register Here</a></p>
+<p><a href='index.html' style="color:#3498db";>Back To Homepage</a></p></div></form>
 <?php } ?>
 </body>
 </html>
