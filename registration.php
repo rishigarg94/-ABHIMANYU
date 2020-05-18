@@ -33,8 +33,8 @@ VALUES ('$username', '".md5($password)."', '$email', '$trn_date', '$branch', '$r
      $_SESSION['regis'] = $regis;
      $_SESSION['years'] = $years;
 
-            echo "<div class='form'>
-<h3 >You are registered successfully.</h3>
+            echo "<div class='box'>
+<h3>You are registered successfully.</h3>
 <br/>Click here to <a href='login.php'>Login</a></div>";
         }
     }else{

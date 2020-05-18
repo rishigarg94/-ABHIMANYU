@@ -19,7 +19,7 @@ body{
   text-transform: uppercase;
   font-weight: 500;
 }
-.box input[type = "text"],.box input[type = "password"],.new_class input[type="email"]{
+.box input[type = "text"],.box input[type = "password"]{
   border:0;
   background: none;
   display: block;
@@ -33,7 +33,7 @@ body{
   border-radius: 24px;
   transition: 0.25s;
 }
-.box input[type = "text"]:focus,.box input[type = "password"]:focus,.new_class input[type="email"]:focus{
+.box input[type = "text"]:focus,.box input[type = "password"]:focus{
   width: 280px;
   border-color: #2ecc71;
 }
