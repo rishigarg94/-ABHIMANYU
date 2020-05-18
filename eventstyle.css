@@ -181,41 +181,41 @@ body{
 }
 
 .col:nth-of-type(1) .card-container:nth-of-type(1) .card:before{
-      background-image: url(https://scontent.fpat2-1.fna.fbcdn.net/v/t1.0-9/p960x960/94318669_552520908801949_2831179537432182784_o.png?_nc_cat=101&_nc_sid=85a577&_nc_oc=AQlH2ENwy5Jrqzj0Bh0EoDzSGPZRvbuSi-Ya-ITbV1WmoZxwJBXUlKeiXcwihrFIV_0&_nc_ht=scontent.fpat2-1.fna&oh=b48e354fd7acb195d655abf00f2a2bb0&oe=5EE3B0DA););
+      background-image: url(./events/logo_woc.png););
 }
 
 .col:nth-of-type(2) .card-container:nth-of-type(1) .card:before{
-      background-image: url(https://scontent.fpat2-1.fna.fbcdn.net/v/t1.0-9/p960x960/94318669_552520908801949_2831179537432182784_o.png?_nc_cat=101&_nc_sid=85a577&_nc_oc=AQlH2ENwy5Jrqzj0Bh0EoDzSGPZRvbuSi-Ya-ITbV1WmoZxwJBXUlKeiXcwihrFIV_0&_nc_ht=scontent.fpat2-1.fna&oh=b48e354fd7acb195d655abf00f2a2bb0&oe=5EE3B0DA););
+      background-image: url(./events/logo_woc.png););
 }
 
 .col:nth-of-type(3) .card-container:nth-of-type(1) .card:before{
-      background-image: url('https://scontent.fpat2-1.fna.fbcdn.net/v/t1.0-9/p960x960/88321395_2055661654579060_5581555527252443136_o.jpg?_nc_cat=103&_nc_sid=85a577&_nc_oc=AQmWk6yQgQ5YbKjzBsTwWumNYMONaxBhaqguqa2iE8syZMYmBOyIAi1jN20gnh2cw5A&_nc_ht=scontent.fpat2-1.fna&_nc_tp=6&oh=738d4c536fbcbb038bf5ecf13f099588&oe=5EE29889');
+      background-image: url('./events/logo_ctf.jpg');
 }
 
 .col:nth-of-type(1) .card-container:nth-of-type(2) .card:before{
-      background-image: url('https://scontent.fpat2-1.fna.fbcdn.net/v/t1.0-9/70180601_2696949973649178_387021697770848256_o.png?_nc_cat=102&_nc_sid=dd9801&_nc_oc=AQmJUyhiF_nl8mkuuEkv9DwbJElLoY8VSILPXCtaMDoaP1I18ZOsN2WMolQT8S1Tw7U&_nc_ht=scontent.fpat2-1.fna&oh=f886731b86953859a4fefccad73ba514&oe=5EE45183');
+      background-image: url('./events/logo_culrav.png');
 }
 
 .col:nth-of-type(2) .card-container:nth-of-type(2) .card:before{
-      background-image: url('https://scontent.fpat2-1.fna.fbcdn.net/v/t1.0-9/52927523_1688056644627500_7600076477178052608_n.jpg?_nc_cat=108&_nc_sid=85a577&_nc_oc=AQmnEY_Xw_m2JYV3NkM2O92c8yTHuXfGKGwEBb01RyiG-mJVgOntVLoL542wD-xwpxg&_nc_ht=scontent.fpat2-1.fna&oh=a29efb1e4e87713a3d29126b978cbc84&oe=5EE3656D');
+      background-image: url('./events/logo_prosang.png');
 }
 
 .col:nth-of-type(3) .card-container:nth-of-type(2) .card:before{
-      background-image: url('https://c1.wallpaperflare.com/preview/184/11/589/coming-soon-coming-soon-patience.jpg');
+      background-image: url('./events/logo_hack36.png');
 }
 
 .col:nth-of-type(1) .card-container:nth-of-type(3) .card:before{
-      background-image: url('https://c1.wallpaperflare.com/preview/184/11/589/coming-soon-coming-soon-patience.jpg');
+      background-image: url('./events/logo_avishkar.jpg');
 
 }
 
 .col:nth-of-type(2) .card-container:nth-of-type(3) .card:before{
-      background-image: url('https://c1.wallpaperflare.com/preview/184/11/589/coming-soon-coming-soon-patience.jpg');
+      background-image: url('./events/logo_commingsoon.png');
 
 }
 
 .col:nth-of-type(3) .card-container:nth-of-type(3) .card:before{
-      background-image: url('https://c1.wallpaperflare.com/preview/184/11/589/coming-soon-coming-soon-patience.jpg');
+      background-image: url('./events/logo_commingsoon.png');
 
 }
 

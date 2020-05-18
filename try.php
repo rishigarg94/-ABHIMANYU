@@ -29,7 +29,7 @@ body {
 
 /* Header/logo Title */
 .header {
-  padding: 80px;
+  padding: 5px;
   text-align: center;
   background: #1abc9c;
   color: white;

@@ -47,7 +47,7 @@ and password='".md5($password)."'";
             // Redirect user to index.php
      header("Location: try.php");
          }else{
-                echo "<div class='form'>
+                echo "<div class='box'>
                 <h3>Username/password is incorrect.</h3>
                 <br/>Click here to <a href='login.php'>Login</a></div>";
  }
@@ -59,8 +59,8 @@ and password='".md5($password)."'";
 <input type="text" name="username" placeholder="Username" required />
 <input type="password" name="password" placeholder="Password" required />
 <input name="submit" type="submit" value="Login" />
-<p style="color:white";>Not registered yet?  <a href='registration.php' style="color: #3498db";>Register Here</a></p>
-<p><a href='index.html' style="color:#3498db";>Back To Homepage</a></p></div></form>
+<p style="color:white;">Not registered yet?  <a href='registration.php' style="color: #3498db;">Register Here</a></p>
+<p><a href='index.html' style="color:#3498db;">Back To Homepage</a></p></div></form>
 <?php } ?>
 </body>
 </html>
