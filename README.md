@@ -39,7 +39,7 @@ To run this project on your local host as a host provider:
 contributing team members:
 * 1)RISHI GARG
 * 2)MEHUL SINGHAL
-* 3)PURUSHOTAM KUMAR AGARWAL
+* 3)PURUSHOTAM KUMAR AGRAWAL
 * 4)PRAVESH PANDEY
 
 ## Versioning
@@ -53,4 +53,4 @@ This project has copyright issued n name of team !ABHIMANYU.
 ## Acknowledgments
 
 * 1). for all our seniors and management team of WOC 2.0.
-* 2). our mentor Mr.Santanu Banerjee from Btech. final year.
+* 2). our mentor Mr.Santanu Banerjee from ECE Btech. final year.
