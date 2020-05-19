@@ -1,6 +1,6 @@
 # GIT-NIT
 
-(An initiative by team-!ABHIMANYU for fellow MNNITian's)
+# (An initiative by team-!ABHIMANYU for fellow MNNITian's)
 
 keeping an eye,the lack of interconnectivity between students and lack of flow of information,we had try to develop an environment fro students,which will help the to be updated about the various events and opportunitues available for them in their own college.
 PS: please refer to file "abstract(!ABHIMANYU).pdf" for more information about this project.
