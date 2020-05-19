@@ -1,4 +1,4 @@
-![Test Image 1](logo1.png)
+                                                        ![Test Image 1](logo1.png)
 # GIT-NIT
 
  (An initiative by team-!ABHIMANYU for fellow MNNITian's)
