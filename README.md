@@ -39,7 +39,7 @@ To run this project on your local host as a host provider:
 contributing team members:
 * 1)RISHI GARG
 * 2)MEHUL SINGHAL
-* 3)PURUSHOTTAM KUMAR AGARWAL
+* 3)PURUSHOTAM KUMAR AGARWAL
 * 4)PRAVESH PANDEY
 
 ## Versioning
