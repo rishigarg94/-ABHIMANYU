@@ -48,6 +48,7 @@ ul li.active a{
 .main{
 	max-width: 1500px;
 	margin: auto;
+	
 }
 
 .title{
@@ -68,6 +69,7 @@ ul li.active a{
 	left:50%;
 	transform: translate(-50%,-50%);
 
+
 }
 .btn{
 	border: 1px solid #fff;
@@ -75,10 +77,14 @@ ul li.active a{
 	color: #fff;
 	text-decoration: none;
 	transition: 0.6s ease;
+	border-radius: 30px;
+	
+	
 
 }
 
 .btn:hover{
 	background-color: #fff;
 	color: #000;
+	
 }
