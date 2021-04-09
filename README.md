@@ -5,13 +5,13 @@
 keeping an eye,the lack of interconnectivity between students and lack of flow of information,we had try to develop an environment fro students,which will help the to be updated about the various events and opportunitues available for them in their own college.
 * PS: please refer to file "abstract(!ABHIMANYU).pdf" for more information about this project.
 
-Link for website my_branch:             https://pravesh-pandey.github.io/-ABHIMANYU-1/
+Link for website my_branch:             ![My_branch](https://pravesh-pandey.github.io/-ABHIMANYU-1/)
 
 
-Link for website Master:          http://abhimanyuwoc.epizy.com/index.html
+Link for website Master:         ![Master](http://abhimanyuwoc.epizy.com/index.html)
 
 
-Link for database:            http://185.27.134.10/sql.php?db=epiz_25759997_register&table=users&pos=0
+Link for database:            ![Data Base](http://185.27.134.10/sql.php?db=epiz_25759997_register&table=users&pos=0)
 ### Prerequisites
 To run this project on your local host as a host provider:
 * 1).download xampp and start apache and mysql from control panel.
